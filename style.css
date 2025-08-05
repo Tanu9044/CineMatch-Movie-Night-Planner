@@ -1,0 +1,10 @@
+body {
+  background-color: #f8f9fa;
+}
+
+header {
+  background-image: url('https://images.unsplash.com/photo-1602810316532-d5a01d7068d1');
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
