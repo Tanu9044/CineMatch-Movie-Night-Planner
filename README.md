@@ -17,6 +17,15 @@ and then suggests a movie based on the selection.
 - Bootstrap  
 - JavaScript
 
+🔗 Live Demo👉 https://tanu9044.github.io/CineMatch-Movie-Night-Planner/
+
+## 💡 Future Scope
+
+Add AI suggestions using machine learning
+Add user login and history of movie nights
+Connect to real movie databases (like TMDb API)
+
+
 ## 📂 Project Structure
 
 ```plaintext
@@ -24,16 +33,6 @@ CineMatch/
 ├── index.html       # Main HTML file
 ├── style.css        # Custom styling
 └── script.js        # Movie mood logic```
-
-🔗 Live Demo👉 https://tanu9044.github.io/CineMatch-Movie-Night-Planner/
-
-💡 Future Scope
-
-Add AI suggestions using machine learning
-
-Add user login and history of movie nights
-
-Connect to real movie databases (like TMDb API)
 
 📬 Feedback
 
