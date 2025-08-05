@@ -35,7 +35,6 @@ Add user login and history of movie nights
 
 Connect to real movie databases (like TMDb API)
 
-
 📬 Feedback
 
 Suggestions and feedback are most welcome!
