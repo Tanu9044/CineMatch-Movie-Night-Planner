@@ -25,14 +25,16 @@ Add AI suggestions using machine learning
 Add user login and history of movie nights
 Connect to real movie databases (like TMDb API)
 
-
-## 📂 Project Structure
-
-CineMatch/
-├── index.html       # Main HTML file
-├── style.css        # Custom styling
-└── script.js        # Movie mood logic
-
 📬 Feedback
 
 Suggestions and feedback are most welcome!
+
+
+## 📂 Project Structure
+
+````plaintext
+CineMatch/
+├── index.html       # Main HTML file
+├── style.css        # Custom styling
+└── script.js        # Movie mood logic```
+
