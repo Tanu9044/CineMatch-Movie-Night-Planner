@@ -24,9 +24,8 @@ CineMatch/
 ├── index.html       # Main HTML file
 ├── style.css        # Custom styling
 └── script.js        # Movie mood logic
-🔗 Live Demo
 
-👉 Try CineMatch now
+🔗 Live Demo👉 https://tanu9044.github.io/CineMatch-Movie-Night-Planner/
 
 💡 Future Scope
 
