@@ -28,11 +28,10 @@ Connect to real movie databases (like TMDb API)
 
 ## 📂 Project Structure
 
-```plaintext
 CineMatch/
 ├── index.html       # Main HTML file
 ├── style.css        # Custom styling
-└── script.js        # Movie mood logic```
+└── script.js        # Movie mood logic
 
 📬 Feedback
 
